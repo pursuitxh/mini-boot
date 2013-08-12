@@ -1,0 +1,6 @@
+a simple bootloader for mini2440 which modify from S-BOOT,
+
+add the following features:
+1.support automatic distinguish norflash or nandflash boot 
+2.support DM9000 eth driver
+3.support nandflash driver
